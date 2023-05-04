@@ -1,0 +1,17 @@
+Gender,Origin,Years_studied,Count
+Male,Local,2,51
+Male,Local,3,84
+Male,Local,4,82
+Male,Local,5,43
+Male,Foreign,2,109
+Male,Foreign,3,115
+Male,Foreign,4,91
+Male,Foreign,5,120
+Female,Local,2,62
+Female,Local,3,91
+Female,Local,4,88
+Female,Local,5,42
+Female,Foreign,2,114
+Female,Foreign,3,120
+Female,Foreign,4,61
+Female,Foreign,5,21
